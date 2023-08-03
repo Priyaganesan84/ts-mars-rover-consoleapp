@@ -27,7 +27,7 @@ The application will prompt you to enter the plateau size in the format "X Y Ori
 Next, the application will prompt you to enter rover data in the format "X Y Orientation, Instructions" (e.g., "1 2 N, LMLMLMLMM"). Press Enter after entering each rover's data. You can input data for multiple rovers by providing each rover's data on a new line.
 
 After entering the rover data, the application will display the final positions of all the rovers on the plateau.
-Enter the plateau size (e.g., 5 5 N): 5 5 N
+Enter the plateau size (e.g., 5 5 N): 5 5 
 Enter rover data (e.g., 1 2 N, LMLMLMLMM): 1 2 N, LMLMLMLMM
 Final Positions:
 0 2 W
